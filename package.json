@@ -19,6 +19,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.1.0",
+    "hubot-strong-qr-decoder": "git://github.com/prototype-cafe/hubot-strong-qr-decoder",
     "hubot-youtube": "^0.1.2"
   },
   "engines": {

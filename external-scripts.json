@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube",
-  "hubot-multiline-test"
+  "hubot-multiline-test",
+  "hubot-strong-qr-decoder"
 ]
