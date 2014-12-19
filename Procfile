@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n secuo
+web: bin/hubot -a slack -n s
