@@ -15,6 +15,7 @@
     "hubot-multiline-test": "git://github.com/prototype-cafe/hubot-multiline-test",
     "hubot-otsukare-yamero": "git://github.com/prototype-cafe/hubot-otsukare-yamero",
     "hubot-pugme": "^0.1.0",
+    "hubot-qr-img-decoder": "git://github.com/prototype-cafe/hubot-qr-img-decoder",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",

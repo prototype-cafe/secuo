@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-multiline-test",
   "hubot-strong-qr-decoder",
-  "hubot-otsukare-yamero"
+  "hubot-otsukare-yamero",
+  "hubot-qr-img-decoder"
 ]
