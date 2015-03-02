@@ -13,5 +13,6 @@
   "hubot-multiline-test",
   "hubot-strong-qr-decoder",
   "hubot-otsukare-yamero",
-  "hubot-qr-img-decoder"
+  "hubot-qr-img-decoder",
+  "hubot-string-codec"
 ]
